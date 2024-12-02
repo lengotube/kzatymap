@@ -1,3 +1,5 @@
-aiogram
-bs4
-requests
+folium
+geopandas
+MarkerCluster
+Search
+json
